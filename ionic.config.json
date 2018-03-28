@@ -1,0 +1,8 @@
+{
+  "name": "myPushNotif",
+  "app_id": "fb9433f8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
